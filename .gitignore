@@ -1,3 +1,4 @@
+node_modules
 .env
 
 # it includes the file which we do not want to
